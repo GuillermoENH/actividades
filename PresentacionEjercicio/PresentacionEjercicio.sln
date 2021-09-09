@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesEjerci", "Entidade
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatosEjerci", "AccesoDatosEjerci\AccesoDatosEjerci.csproj", "{84B951DA-1829-4777-959E-49FF06A82C02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejadorEjerci", "ManejadorEjerci\ManejadorEjerci.csproj", "{1839812C-9C48-49E7-8921-646A2BB713A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{84B951DA-1829-4777-959E-49FF06A82C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84B951DA-1829-4777-959E-49FF06A82C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84B951DA-1829-4777-959E-49FF06A82C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1839812C-9C48-49E7-8921-646A2BB713A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1839812C-9C48-49E7-8921-646A2BB713A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1839812C-9C48-49E7-8921-646A2BB713A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1839812C-9C48-49E7-8921-646A2BB713A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
